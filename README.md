@@ -23,6 +23,10 @@ This project explores 5 years of historical S&P 500 data (600,000+ records) to d
 - **Python:** The core engine for data processing.
 - **Pandas:** Time-series analysis and rolling calculations.
 - **Seaborn & Matplotlib:** Advanced financial visualizations and heatmaps.
+- ## 📊 Dataset
+The dataset contains over 600,000 records of stock prices (Open, High, Low, Close, Volume).
+- **Direct Link:** [S&P 500 Stocks Dataset (Kaggle)](https://www.kaggle.com/datasets/rohitjain454/all-stocks-5yr)
+- **Note:** Due to the file size (~30MB), the raw CSV file (`all_stocks_5yr.csv`) is not included in this repository. Please download it from Kaggle and place it in the project directory before running the notebook.
 
 ## 📂 How to use
 - Open `Analysis.ipynb` to view the end-to-end workflow from data cleaning to strategic insights.
